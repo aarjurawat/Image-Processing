@@ -1,1 +1,2 @@
-# Image-Processing
+# image-rotation2 
+Opencv rotate image c++ Rotate an image without cropping in OpenCV in C++, Rotate an image without cropping in OpenCV in C++ · c++ opencv. I'd like to rotate an image
